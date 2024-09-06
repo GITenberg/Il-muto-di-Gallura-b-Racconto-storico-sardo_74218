@@ -1,0 +1,33 @@
+_repo: Il-muto-di-Gallura-b-Racconto-storico-sardo_74218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Costa, Enrico
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '57397'
+    url: http://www.gutenberg.org/2009/agents/57397
+    wikipedia: https://it.wikipedia.org/wiki/Enrico_Costa_(scrittore)
+description: ''
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74218'
+language: it
+pgterms:marc904: http://www.sardegnadigitallibrary.it/mmt/fullsize/2009042213011300130.pdf
+pgterms:marc905: 20230521094100costa
+pgterms:marc906: '1912'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Sardegna Digital
+  Library)
+publication_note: '  $aTempio Pausania :$bG. Tortu, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gallura (Italy) -- History -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Il muto di Gallura : $b Racconto storico sardo'
+url: http://www.gutenberg.org/ebooks/74218
